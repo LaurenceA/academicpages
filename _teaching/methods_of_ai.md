@@ -3,7 +3,6 @@ title: "SEMT20003: Methods of AI"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Bristol"
-date: 2024-01-01
 location: "Bristol, UK"
 permalink: /teaching/methods-of-ai
 ---
