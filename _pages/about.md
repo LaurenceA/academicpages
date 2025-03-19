@@ -25,18 +25,19 @@ Please get in touch via email to discuss:
 
 ## News
 
-- March 2025: New paper: [Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints](https://arxiv.org/abs/2503.01747)
-- Feb 2025: New paper: [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147)
-- Feb 2025: New paper: [Function-Space Learning Rates](https://arxiv.org/abs/2502.17405)
-- Jan 2025: New paper: [Sparse Autoencoders Can Interpret Randomly Initialized Transformers](https://arxiv.org/abs/2501.17727)
-- Jan 2025: One paper accepted at ICLR 2025: 
+- Jan-March 2025: **New papers**
+  - [Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints](https://arxiv.org/abs/2503.01747)
+  - [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147)
+  - [Function-Space Learning Rates](https://arxiv.org/abs/2502.17405)
+  - [Sparse Autoencoders Can Interpret Randomly Initialized Transformers](https://arxiv.org/abs/2501.17727)
+- Jan 2025: **One paper accepted at ICLR 2025**: 
   - [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/abs/2409.04185)
-- Nov 2024: One paper accepted at 3DV 2025:
+- Nov 2024: **One paper accepted at 3DV 2025**:
   - [Snap-it, tap-it, splat-it: Tactile-informed 3D Gaussian splatting for reconstructing challenging surfaces](https://arxiv.org/abs/2403.20275)
-- Sept 2024: Two papers accepted at NeurIPS 2024:
+- Sept 2024: **Two papers accepted at NeurIPS 2024**:
   - [Stochastic Kernel Regularisation Improves Generalisation in Deep Kernel Machines](https://arxiv.org/abs/2410.06171)
   - [Instruction Tuning With Loss Over Instructions](https://arxiv.org/abs/2405.14394)
-- May 2024: Three papers accepted at ICML 2024:
+- May 2024: **Three papers accepted at ICML 2024**:
   - [Bayesian low-rank adaptation for large language models](https://arxiv.org/abs/2308.13111)
   - [Convolutional Deep Kernel Machines](https://arxiv.org/abs/2309.09814)
   - [Position paper: Bayesian deep learning in the age of large-scale AI](https://arxiv.org/abs/2402.00809)
