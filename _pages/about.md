@@ -14,7 +14,7 @@ I am interested in all aspects of large language models (LLMs), ranging from:
 - development of self-improving LLM agents
 
 I am currently a Lecturer (US Assistant Professor) at the University of Bristol.
-While my current research focuses on LLMs, my previous work ranges across probabilistic and Bayesian machine learning, along with computational neuroscience (PhD at Gatsby Unit, UCL).
+While my current research focuses on LLMs, my previous work ranges across probabilistic and Bayesian machine learning, along with computational neuroscience (PhD at Gatsby Unit, UCL).  See CV or Publications for more details.
 
 ## Contact
 
