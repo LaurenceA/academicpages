@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Academic CV: [PDF](files/cv.pdf)
-One-page CV: [PDF](files/cv_one_page.pdf)
+Academic CV: [PDF](/files/cv.pdf)
+
+One-page CV: [PDF](/files/cv_one_page.pdf)
