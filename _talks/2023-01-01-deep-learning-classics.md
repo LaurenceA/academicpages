@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-deep-learning-classics
 venue: "Deep Learning Classics and Trends"
-date: 2023-01-01
+date: 2023-10-10
 location: "Virtual"
 ---
 

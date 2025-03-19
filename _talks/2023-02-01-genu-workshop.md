@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-genu-workshop
 venue: "Workshop on generative models and uncertainty quantification (GenU)"
-date: 2023-02-01
+date: 2023-09-21
 location: "Virtual"
 ---
 

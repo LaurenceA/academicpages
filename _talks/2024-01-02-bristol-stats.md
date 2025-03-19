@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-bristol-stats
 venue: "University of Bristol"
-date: 2024-01-02
+date: 2024-03-22
 location: "Bristol, UK"
 ---
 

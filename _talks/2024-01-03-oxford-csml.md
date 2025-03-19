@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-oxford-csml
 venue: "Oxford Computational Statistics and Machine Learning (OxCSML)"
-date: 2024-01-03
+date: 2024-02-16
 location: "Oxford, UK"
 ---
 

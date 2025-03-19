@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-01-functional-inference
 venue: "University of Bristol"
-date: 2024-01-01
+date: 2024-03-26
 location: "Bristol, UK"
 ---
 
