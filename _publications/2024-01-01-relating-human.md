@@ -1,7 +1,7 @@
 ---
 title: "Relating Human Error-Based Learning to Modern Deep RL Algorithms"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2024-01-01-relating-human
 excerpt: 'This paper relates human error-based learning to modern deep reinforcement learning algorithms.'
 date: 2024-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Postprocessing East African rainfall forecasts using a generative machine learning model"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2023-01-01-postprocessing
 excerpt: 'This paper presents a generative machine learning approach for postprocessing East African rainfall forecasts.'
 date: 2023-01-01
