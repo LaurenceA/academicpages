@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Neural Network Priors Revisited"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2022-01-01-bnn-priors
 excerpt: 'This paper reexamines and analyzes priors for Bayesian neural networks.'
 date: 2022-01-01

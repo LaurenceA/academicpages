@@ -1,7 +1,7 @@
 ---
 title: "Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2021-01-01-understanding-covid
 excerpt: 'This paper analyzes the effectiveness of different government interventions in controlling COVID-19 resurgence in Europe.'
 date: 2021-01-01

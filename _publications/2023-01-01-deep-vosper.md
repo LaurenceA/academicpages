@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Downscaling Tropical Cyclone Rainfall to Hazard-relevant Spatial Scales"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2023-01-01-deep-vosper
 excerpt: 'This paper presents deep learning methods for downscaling tropical cyclone rainfall predictions.'
 date: 2023-01-01
