@@ -1,7 +1,7 @@
 ---
 title: "Signatures of Bayesian inference emerge from energy efficient synapses"
 collection: publications
-category: manuscripts
+category: other
 permalink: /publication/2024-01-01-signatures
 excerpt: 'This paper demonstrates how Bayesian inference emerges naturally from energy efficient synapses.'
 date: 2024-01-01

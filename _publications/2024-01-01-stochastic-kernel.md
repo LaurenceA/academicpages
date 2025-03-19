@@ -1,7 +1,7 @@
 ---
 title: "Stochastic Kernel Regularisation Improves Generalisation in Deep Kernel Machines"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2024-01-01-stochastic-kernel
 excerpt: 'This paper shows how stochastic kernel regularization can improve generalization in deep kernel machines.'
 date: 2024-01-01

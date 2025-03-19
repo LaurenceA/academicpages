@@ -1,7 +1,7 @@
 ---
 title: "Residual Stream Analysis with Multi-Layer SAEs"
 collection: publications
-category: publications
+category: ml
 permalink: /publication/2024-01-01-residual-stream
 excerpt: 'This paper introduces a novel approach to analyzing the residual stream in transformer models using multi-layer sparse autoencoders.'
 date: 2025-01-01
