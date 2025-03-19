@@ -7,47 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (US Assistant Professor) at the University of Bristol, developing a research program on Large Language Models (LLMs) that builds on my background in Bayesian machine learning and computational neuroscience.
+I am interested in all aspects of large language models (LLMs), ranging from: 
+- pretraining dynamics (e.g. [hyperparameter transfer for weight decay](https://arxiv.org/abs/2405.13698) and [function-space learning rates](https://arxiv.org/abs/2502.17405))
+- efficiency
+- understanding them using mechanistic interpretability (e.g. [random baselines for SAEs](https://arxiv.org/abs/2502.18147), [residual stream analysis](https://arxiv.org/abs/2409.04185) and [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147))
+- development of self-improving LLM agents
 
-## Research Journey
+I am currently a Lecturer (US Assistant Professor) at the University of Bristol.
+While my current research focuses on LLMs, my previous work ranges across probabilistic and Bayesian machine learning, along with computational neuroscience (PhD at Gatsby Unit, UCL).
 
-My research career began in computational neuroscience at the Gatsby Unit (UCL) and continued with a postdoc at Cambridge with Máté Lengyel. During this period, I published influential work using Bayesian inference to understand synaptic plasticity and neural activations, while also analyzing behavioral and neural data.
+## Contact
 
-As a faculty member at Bristol, I developed an extensive research program in probabilistic and Bayesian machine learning. Key contributions include:
+Please get in touch via email to discuss:
+* research
+* PhD applications
+* consulting opportunities
 
-- Showing that infinite-width convolutional neural networks have Gaussian-process distributed outputs (300+ citations)
-- Developing Deep Kernel Processes, a new family of probabilistic methods that combine the benefits of kernel methods with representation learning
-- Advancing Bayesian neural networks through principled approaches to prior design and inference
-- Resolving the longstanding "cold-posterior effect" puzzle in deep learning
+## News
 
-## Current Focus: LLMs
-
-I am now leveraging this unique combination of neuroscience and probabilistic ML expertise in the domain of LLMs. My work spans several critical challenges:
-
-### Mechanistic Interpretability
-Drawing on my neuroscience background, I study how LLMs process information - what I think of as the "Computational Neuroscience of LLMs." We're developing novel methods that go beyond simple interpretability to understand actual computation in these models.
-
-### Bayesian Methods for LLMs
-My expertise in Bayesian inference has proven particularly valuable for:
-- Developing effective Bayesian approaches to LLM fine-tuning
-- Creating uncertainty-aware methods to mitigate reward hacking
-- Building rigorous evaluation frameworks for understanding LLM capabilities
-
-### LLM Efficiency
-I'm working on dramatically improving LLM performance and efficiency across the pipeline through:
-- Differentiable token skipping for "boring" inputs
-- Scale-free attention mechanisms
-- Novel parameter sharing architectures
-- Improved hyperparameter selection methods
-
-## Teaching
-
-I currently direct several courses at Bristol:
-- Methods of AI (150 students)
-- Data Driven Computer Science
-- Computational Neuroscience
-
-## Background
-
-I hold degrees from the University of Cambridge in Physics (BA, Double First) and Systems Biology (MSci, First), followed by a PhD from the Gatsby Computational Neuroscience Unit at UCL.
-
+- March 2025: New paper: [Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints](https://arxiv.org/abs/2503.01747)
+- Feb 2025: New paper: [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147)
+- Feb 2025: New paper: [Function-Space Learning Rates](https://arxiv.org/abs/2502.17405)
+- Jan 2025: New paper: [Sparse Autoencoders Can Interpret Randomly Initialized Transformers](https://arxiv.org/abs/2501.17727)
+- Jan 2025: One paper accepted at ICLR 2025: 
+  - [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/abs/2409.04185)
+- Nov 2024: One paper accepted at 3DV 2025:
+  - [Snap-it, tap-it, splat-it: Tactile-informed 3D Gaussian splatting for reconstructing challenging surfaces](https://arxiv.org/abs/2403.20275)
+- Sept 2024: Two papers accepted at NeurIPS 2024:
+  - [Stochastic Kernel Regularisation Improves Generalisation in Deep Kernel Machines](https://arxiv.org/abs/2410.06171)
+  - [Instruction Tuning With Loss Over Instructions](https://arxiv.org/abs/2405.14394)
+- May 2024: Three papers accepted at ICML 2024:
+  - [Bayesian low-rank adaptation for large language models](https://arxiv.org/abs/2308.13111)
+  - [Convolutional Deep Kernel Machines](https://arxiv.org/abs/2309.09814)
+  - [Position paper: Bayesian deep learning in the age of large-scale AI](https://arxiv.org/abs/2402.00809)
+- May 2024: New paper: [How to set AdamW’s weight decay as you scale model and dataset size](https://arxiv.org/abs/2405.13698)
