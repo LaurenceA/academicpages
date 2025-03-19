@@ -22,7 +22,9 @@ I'm always excited to discuss:
 * PhD opportunities for motivated candidates
 * Industry consulting partnerships
 
-Reach out via email to start a conversation!
+Reach out via email (laurence.aitchison@gmail.com) to start a conversation!
+
+## News
 
 - Jan-March 2025: **New papers**
   - [Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints](https://arxiv.org/abs/2503.01747)
