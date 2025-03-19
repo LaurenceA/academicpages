@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Deep Kernel Machines"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2023-01-01-convolutional
 excerpt: 'This paper extends deep kernel machines to handle convolutional architectures.'
 date: 2023-01-01

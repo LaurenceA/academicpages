@@ -1,7 +1,7 @@
 ---
 title: "A unifying framework for sparse coding and matrix factorization"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2019-01-01-sparse-coding
 excerpt: 'This paper presents a unified theoretical framework for sparse coding and matrix factorization.'
 date: 2019-01-01

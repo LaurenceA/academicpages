@@ -1,7 +1,7 @@
 ---
 title: "Tensor Monte Carlo: particle methods for the GPU era"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2019-01-01-tensor-monte
 excerpt: 'This paper introduces Tensor Monte Carlo, adapting particle methods for modern GPU architectures.'
 date: 2019-01-01

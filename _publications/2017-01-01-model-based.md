@@ -1,7 +1,7 @@
 ---
 title: "Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit"
 collection: publications
-category: manuscripts
+category: other
 permalink: /publication/2017-01-01-model-based
 excerpt: 'This paper presents methods for Bayesian inference of neural activity and connectivity from optical recordings.'
 date: 2017-01-01

@@ -1,7 +1,7 @@
 ---
 title: "A variational approximate posterior for the deep Wishart process"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2021-01-01-variational
 excerpt: 'This paper presents a variational approximate posterior for the deep Wishart process.'
 date: 2021-01-01

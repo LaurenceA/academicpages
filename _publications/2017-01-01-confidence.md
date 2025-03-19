@@ -1,7 +1,7 @@
 ---
 title: "Confidence matching in group decision-making"
 collection: publications
-category: manuscripts
+category: other
 permalink: /publication/2017-01-01-confidence
 excerpt: 'This paper examines how confidence matching affects group decision-making.'
 date: 2017-01-01

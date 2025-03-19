@@ -1,7 +1,7 @@
 ---
 title: "Active dendritic integration as a mechanism for robust and precise grid cell firing"
 collection: publications
-category: manuscripts
+category: other
 permalink: /publication/2017-01-01-active-dendritic
 excerpt: 'This paper shows how active dendritic integration contributes to robust and precise grid cell firing.'
 date: 2017-01-01

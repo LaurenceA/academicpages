@@ -1,7 +1,7 @@
 ---
 title: "Tactile Image-to-Image Disentanglement of Contact Geometry from Motion-Induced Shear"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2021-01-01-tactile-image
 excerpt: 'This paper presents methods for disentangling contact geometry from motion-induced shear in tactile images.'
 date: 2021-01-01

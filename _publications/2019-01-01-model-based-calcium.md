@@ -1,7 +1,7 @@
 ---
 title: "Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit"
 collection: publications
-category: manuscripts
+category: other
 permalink: /publication/2019-01-01-model-based-calcium
 excerpt: 'This paper presents methods for inferring neural activity and connectivity from calcium imaging data.'
 date: 2019-01-01

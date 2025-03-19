@@ -1,7 +1,7 @@
 ---
 title: "Doubly Bayesian analysis of confidence in perceptual decision-making"
 collection: publications
-category: manuscripts
+category: other
 permalink: /publication/2015-01-01-doubly-bayesian
 excerpt: 'This paper presents a Bayesian analysis of confidence in perceptual decision-making.'
 date: 2015-01-01

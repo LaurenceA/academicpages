@@ -1,7 +1,7 @@
 ---
 title: "BNNpriors: A library for Bayesian neural network inference with different prior distributions"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2021-01-01-bnnpriors
 excerpt: 'This paper presents a library for Bayesian neural network inference with different prior distributions.'
 date: 2021-01-01

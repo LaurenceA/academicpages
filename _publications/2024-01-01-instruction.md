@@ -1,7 +1,7 @@
 ---
 title: "Instruction Tuning With Loss Over Instructions"
 collection: publications
-category: manuscripts
+category: ml
 permalink: /publication/2024-01-01-instruction
 excerpt: 'This paper presents a new approach to instruction tuning using loss over instructions.'
 date: 2024-01-01
