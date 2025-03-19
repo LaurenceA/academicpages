@@ -7,23 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in all aspects of large language models (LLMs), ranging from: 
-- pretraining dynamics (e.g. [hyperparameter transfer for weight decay](https://arxiv.org/abs/2405.13698) and [function-space learning rates](https://arxiv.org/abs/2502.17405))
-- efficiency
-- understanding them using mechanistic interpretability (e.g. [random baselines for SAEs](https://arxiv.org/abs/2502.18147), [residual stream analysis](https://arxiv.org/abs/2409.04185) and [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147))
-- development of self-improving LLM agents
+I'm passionate about pushing the boundaries of large language model (LLM) research, with work spanning multiple exciting directions:
+- **Pretraining Dynamics**: Uncovering the fundamental principles of how LLMs learn, through groundbreaking work on [hyperparameter transfer for weight decay](https://arxiv.org/abs/2405.13698) and [function-space learning rates](https://arxiv.org/abs/2502.17405)
+- **Efficiency**: Developing methods to make LLMs more computationally efficient and accessible
+- **Mechanistic Interpretability**: Breaking open the "black box" of LLMs through innovative approaches like [random baselines for SAEs](https://arxiv.org/abs/2502.18147), [residual stream analysis](https://arxiv.org/abs/2409.04185), and [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147)
+- **AI Agents**: Exploring the frontier of self-improving LLM systems
 
-I am currently a Lecturer (US Assistant Professor) at the University of Bristol.
-While my current research focuses on LLMs, my previous work ranges across probabilistic and Bayesian machine learning, along with computational neuroscience (PhD at Gatsby Unit, UCL).  See CV or Publications for more details.
+As a Lecturer (US Assistant Professor) at the University of Bristol, I lead research at the intersection of machine learning and artificial intelligence. While my current focus is on LLMs, my academic journey includes significant contributions to probabilistic and Bayesian machine learning, as well as computational neuroscience (PhD at the prestigious Gatsby Unit, UCL). For a deeper dive into my research trajectory, please see my CV or Publications.
 
-## Contact
+## Let's Connect!
 
-Please get in touch via email to discuss:
-* research
-* PhD applications
-* consulting opportunities
+I'm always excited to discuss:
+* Potential research collaborations
+* PhD opportunities for motivated candidates
+* Industry consulting partnerships
 
-## News
+Reach out via email to start a conversation!
 
 - Jan-March 2025: **New papers**
   - [Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints](https://arxiv.org/abs/2503.01747)
