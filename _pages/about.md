@@ -26,13 +26,17 @@ Reach out via email (laurence.aitchison@gmail.com) to start a conversation!
 
 ## News
 
-- Jan-March 2025: **New papers**
+- May 2025: **Four papers accepted at ICML 2025**
   - [Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints](https://arxiv.org/abs/2503.01747)
   - [Jacobian Sparse Autoencoders](https://arxiv.org/abs/2502.18147)
   - [Function-Space Learning Rates](https://arxiv.org/abs/2502.17405)
-  - [Sparse Autoencoders Can Interpret Randomly Initialized Transformers](https://arxiv.org/abs/2501.17727)
+  - [How to set AdamW’s weight decay as you scale model and dataset size](https://arxiv.org/abs/2405.13698)
+- May 2025: **New paper**
+  - [Scale invariant attention](https://arxiv.org/abs/2505.17083)
 - Jan 2025: **One paper accepted at ICLR 2025**: 
   - [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/abs/2409.04185)
+- Jan 2025 **New paper**
+  - [Sparse Autoencoders Can Interpret Randomly Initialized Transformers](https://arxiv.org/abs/2501.17727)
 - Nov 2024: **One paper accepted at 3DV 2025**:
   - [Snap-it, tap-it, splat-it: Tactile-informed 3D Gaussian splatting for reconstructing challenging surfaces](https://arxiv.org/abs/2403.20275)
 - Sept 2024: **Two papers accepted at NeurIPS 2024**:
@@ -42,4 +46,3 @@ Reach out via email (laurence.aitchison@gmail.com) to start a conversation!
   - [Bayesian low-rank adaptation for large language models](https://arxiv.org/abs/2308.13111)
   - [Convolutional Deep Kernel Machines](https://arxiv.org/abs/2309.09814)
   - [Position paper: Bayesian deep learning in the age of large-scale AI](https://arxiv.org/abs/2402.00809)
-- May 2024: New paper: [How to set AdamW’s weight decay as you scale model and dataset size](https://arxiv.org/abs/2405.13698)
